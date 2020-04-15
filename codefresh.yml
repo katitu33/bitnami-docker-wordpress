@@ -1,4 +1,4 @@
-version: '2'
+version: '1'
 services:
   mariadb:
     image: 'bitnami/mariadb:10.3'
